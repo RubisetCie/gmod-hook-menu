@@ -1,0 +1,13 @@
+{
+	"title"		:	"Garry's Mod Hook Menu",
+	"type"		:	"tool",
+	"tags"		:	[ "build", "fun" ],
+	"description":	"Garry's Mod addon to allow exact movement of objects for accurate building. Push/pull, rotate, and snap props together at specific distances.",
+	"ignore"	:
+	[
+		"*.vcproj",
+		".git*",
+		"LICENSE",
+		"README.md"
+	]
+}
